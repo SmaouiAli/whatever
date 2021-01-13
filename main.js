@@ -1,3 +1,4 @@
 function helloWorkFlow (){
-    console.log("it is complicated")
+    console.log("it is easy")
+
 }
